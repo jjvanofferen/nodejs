@@ -1,0 +1,12 @@
+{
+  "name": "CampusInc-chat",
+  "version": "0.0.1",
+  "description": "CampusInc node chat application",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.7.2"
+  },
+   "scripts": {
+		"start": "npm install; node server.js"
+	}
+}	
