@@ -1,12 +1,12 @@
 {
-  "name": "Nodejs-chat-mvc",
-  "version": "0.0.1",
-  "description": "Base nodeJS chat app build with MVC",
-  "dependencies": {
-    "express": "^4.10.2",
-    "socket.io": "^1.7.2"
-  },
-   "scripts": {
-		"start": "npm install; node server.js"
-	}
-}	
+ "name": "Nodejs-chat-mvc",
+ "version": "0.0.1",
+ "description": "Base nodeJS chat app build with MVC",
+ "dependencies": {
+  "express": "^4.10.2",
+  "socket.io": "^1.7.2"
+ },
+ "scripts": {
+  "start": "npm install; node server.js"
+ }
+}

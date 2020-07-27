@@ -7,3 +7,4 @@ gen
 .idea/modules.xml
 .idea/nodejs.iml
 .idea/vcs.xml
+package-lock.json
