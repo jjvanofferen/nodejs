@@ -8,3 +8,4 @@ gen
 .idea/nodejs.iml
 .idea/vcs.xml
 package-lock.json
+node_modules/
