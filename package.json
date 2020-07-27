@@ -1,7 +1,7 @@
 {
-  "name": "CampusInc-chat",
+  "name": "Nodejs-chat-mvc",
   "version": "0.0.1",
-  "description": "CampusInc node chat application",
+  "description": "Base nodeJS chat app build with MVC",
   "dependencies": {
     "express": "^4.10.2",
     "socket.io": "^1.7.2"
